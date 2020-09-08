@@ -55,7 +55,7 @@ namespace BookAuthors
             {
                 endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "{controller=Home}/{action=Index}/{id?}");
+                    pattern: "{controller=BookAuthor}/{action=ListBookAuthors}/{id?}");
             });
         }
     }

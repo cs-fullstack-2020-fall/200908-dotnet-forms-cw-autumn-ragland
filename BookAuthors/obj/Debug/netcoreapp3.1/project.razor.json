@@ -14412,6 +14412,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\student\\Code_School\\cohort5\\sprint_three\\dotnet\\200908\\200908-dotnet-forms-cw-autumn-ragland\\BookAuthors\\Views\\BookAuthor\\Error.cshtml",
+      "TargetPath": "Views\\BookAuthor\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\student\\Code_School\\cohort5\\sprint_three\\dotnet\\200908\\200908-dotnet-forms-cw-autumn-ragland\\BookAuthors\\Views\\BookAuthor\\NewBookAuthor.cshtml",
       "TargetPath": "Views\\BookAuthor\\NewBookAuthor.cshtml",
       "FileKind": "mvc"

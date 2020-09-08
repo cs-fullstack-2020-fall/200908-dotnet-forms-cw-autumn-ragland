@@ -1,5 +1,11 @@
 @model BookAuthors.Models.BookAuthorModel
 <h1>Add New Book Auhtor</h1>
+@if(@ViewData["errors"] != null)
+{
+    <div class="alert alert-danger" role="alert">
+    @ViewData["errors"]
+    </div>
+}
 @using (@Html.BeginForm("AddBookAuthor", "BookAuthor"))
 {
     <div class="form-group">

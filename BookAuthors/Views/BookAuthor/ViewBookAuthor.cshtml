@@ -1,2 +1,18 @@
 @model BookAuthors.Models.BookAuthorModel
 <h1>View One</h1>
+<table class="table table-striped">
+  <thead class="thead-dark">
+    <tr>
+      <th scope="col">ID</th>
+      <th scope="col">Name</th>
+      <th scope="col">Is Active</th>
+    </tr>
+  </thead>
+  <tbody>  
+        <tr>
+        <th scope="row">@Model.id</th>
+        <td>@Model.fName @Model.lName</a> </td>
+        <td>@Model.isActive</td>
+        </tr>
+  </tbody>
+</table>

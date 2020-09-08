@@ -379,3 +379,4 @@ C:\Users\student\Code_School\cohort5\sprint_three\dotnet\200908\200908-dotnet-fo
 C:\Users\student\Code_School\cohort5\sprint_three\dotnet\200908\200908-dotnet-forms-cw-autumn-ragland\BookAuthors\obj\Debug\netcoreapp3.1\Razor\Views\BookAuthor\ListBookAuthors.cshtml.g.cs
 C:\Users\student\Code_School\cohort5\sprint_three\dotnet\200908\200908-dotnet-forms-cw-autumn-ragland\BookAuthors\obj\Debug\netcoreapp3.1\Razor\Views\BookAuthor\ViewBookAuthor.cshtml.g.cs
 C:\Users\student\Code_School\cohort5\sprint_three\dotnet\200908\200908-dotnet-forms-cw-autumn-ragland\BookAuthors\obj\Debug\netcoreapp3.1\Razor\Views\BookAuthor\NewBookAuthor.cshtml.g.cs
+C:\Users\student\Code_School\cohort5\sprint_three\dotnet\200908\200908-dotnet-forms-cw-autumn-ragland\BookAuthors\obj\Debug\netcoreapp3.1\Razor\Views\BookAuthor\Error.cshtml.g.cs
