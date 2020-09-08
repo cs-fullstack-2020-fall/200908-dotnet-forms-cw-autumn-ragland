@@ -9,6 +9,6 @@ namespace BookAuthors.DAO
         {
 
         }
-        DbSet<BookAuthorModel> authors {get;set;}
+        public DbSet<BookAuthorModel> authors {get;set;}
     }
 }

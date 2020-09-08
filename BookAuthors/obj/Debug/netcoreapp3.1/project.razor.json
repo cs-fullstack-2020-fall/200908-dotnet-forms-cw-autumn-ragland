@@ -14397,6 +14397,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\student\\Code_School\\cohort5\\sprint_three\\dotnet\\200908\\200908-dotnet-forms-cw-autumn-ragland\\BookAuthors\\Views\\BookAuthor\\ListBookAuthors.cshtml",
+      "TargetPath": "Views\\BookAuthor\\ListBookAuthors.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\student\\Code_School\\cohort5\\sprint_three\\dotnet\\200908\\200908-dotnet-forms-cw-autumn-ragland\\BookAuthors\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"
@@ -14404,6 +14409,11 @@
     {
       "FilePath": "c:\\Users\\student\\Code_School\\cohort5\\sprint_three\\dotnet\\200908\\200908-dotnet-forms-cw-autumn-ragland\\BookAuthors\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\student\\Code_School\\cohort5\\sprint_three\\dotnet\\200908\\200908-dotnet-forms-cw-autumn-ragland\\BookAuthors\\Views\\BookAuthor\\NewBookAuthor.cshtml",
+      "TargetPath": "Views\\BookAuthor\\NewBookAuthor.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -14419,6 +14429,11 @@
     {
       "FilePath": "c:\\Users\\student\\Code_School\\cohort5\\sprint_three\\dotnet\\200908\\200908-dotnet-forms-cw-autumn-ragland\\BookAuthors\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\student\\Code_School\\cohort5\\sprint_three\\dotnet\\200908\\200908-dotnet-forms-cw-autumn-ragland\\BookAuthors\\Views\\BookAuthor\\ViewBookAuthor.cshtml",
+      "TargetPath": "Views\\BookAuthor\\ViewBookAuthor.cshtml",
       "FileKind": "mvc"
     },
     {

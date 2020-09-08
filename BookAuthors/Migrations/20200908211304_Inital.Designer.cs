@@ -8,7 +8,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace BookAuthors.Migrations
 {
     [DbContext(typeof(AuthorDbContext))]
-    [Migration("20200908205156_Inital")]
+    [Migration("20200908211304_Inital")]
     partial class Inital
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

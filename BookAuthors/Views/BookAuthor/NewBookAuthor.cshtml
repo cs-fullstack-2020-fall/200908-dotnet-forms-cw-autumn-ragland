@@ -1,0 +1,18 @@
+@model BookAuthors.Models.BookAuthorModel
+<h1>Add New Book Auhtor</h1>
+@using (@Html.BeginForm("AddBookAuthor", "BookAuthor"))
+{
+    <div class="form-group">
+        @Html.LabelFor(auth => auth.fName)
+        @Html.TextBoxFor(auth => auth.fName, new { @class="form-control" })
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(auth => auth.lName)
+        @Html.TextBoxFor(auth => auth.lName, new { @class="form-control" })
+    </div>
+    <div class="form-check">
+        @Html.CheckBoxFor(auth => auth.isActive, new { @class="form-check-input" })
+        @Html.LabelFor(auth => auth.isActive, new { @class="form-check-label" })
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+}   

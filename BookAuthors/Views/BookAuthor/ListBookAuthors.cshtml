@@ -1,0 +1,22 @@
+@model BookAuthors.DAO.AuthorDbContext
+<h1>View All</h1>
+@* using bootstrap table *@
+<table class="table table-striped">
+  <thead class="thead-dark">
+    <tr>
+      <th scope="col">ID</th>
+      <th scope="col">Name</th>
+      <th scope="col">Is Active</th>
+    </tr>
+  </thead>
+  <tbody>
+    @foreach (BookAuthorModel auth in @Model.authors)
+    {   
+        <tr>
+        <th scope="row">@auth.id</th>
+        <td> <a asp-area="" asp-controller="BookAuthor" asp-action="ViewBookAuthor" asp-route-authID = "@auth.id">@auth.fName @auth.lName</a> </td>
+        <td>@auth.isActive</td>
+        </tr>
+    }
+  </tbody>
+</table>
